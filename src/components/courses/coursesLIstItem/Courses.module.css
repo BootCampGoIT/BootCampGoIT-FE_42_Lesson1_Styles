@@ -1,0 +1,16 @@
+.red {
+  color: red;
+}
+
+.blue {
+  color: blue;
+}
+
+.fontSizer {
+  font-size: 30px;
+}
+
+.mix {
+  composes: blue;
+  text-decoration: underline;
+}
